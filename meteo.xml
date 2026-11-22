@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE meteo SYSTEM "file:/C:/Users/habti/Desktop/BDCC/tech%26XML/TP_meteo/meteo.dtd">
+<!DOCTYPE meteo SYSTEM "meteo.dtd">
 
 <meteo>
     <mesure date="2006-01-01">
